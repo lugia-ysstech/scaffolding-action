@@ -1,0 +1,2 @@
+# scaffolding-action
+use action
