@@ -1,0 +1,9 @@
+[
+  {
+    "title": "修改组件属性",
+    "desc": "修改组件属性",
+    "userDef": {},
+    "type": "Action",
+    "pluginName": "ChangeProps"
+  }
+]
